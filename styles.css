@@ -43,16 +43,19 @@
 }
 
 .introduction {
+  font-family: "Poppins";
+  font-style: normal;
   color: #172b4d;
   font-weight: 700;
   font-size: 40px;
-  line-height: 52px;
-  margin-top: 114px;
+  line-height: 45px;
+  margin-top: 50px;
   margin-bottom: 0;
   margin-left: 24px;
   margin-right: 24px;
+  width: 250px;
+  height: 100px;
 }
-
 .intro-description {
   color: #344563;
   font-weight: 400;
@@ -64,7 +67,7 @@
   margin-right: 24px;
 }
 
-.supporting-text {
+.support {
   color: #7f8cff;
   font-size: 16px;
   font-weight: 500;
@@ -75,7 +78,7 @@
 
 .social-media {
   display: flex;
-  width: 170.17px;
+  width: 80px;
   justify-content: space-between;
   list-style-type: none;
   margin-left: 24px;

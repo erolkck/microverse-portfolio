@@ -43,7 +43,6 @@
 }
 
 .introduction {
-  font-family: "Poppins";
   font-style: normal;
   color: #172b4d;
   font-weight: 700;
@@ -56,6 +55,7 @@
   width: 250px;
   height: 100px;
 }
+
 .intro-description {
   color: #344563;
   font-weight: 400;

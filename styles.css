@@ -1,3 +1,6 @@
+@import url("../css/effects.css");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap");
+
 .header {
   display: flex;
   height: 48px;
@@ -51,7 +54,7 @@
 }
 
 .introduction {
-  font-family: Poppins;
+  font-family: "Poppins";
   font-style: normal;
   color: #172b4d;
   font-weight: 700;
@@ -63,11 +66,10 @@
 
 .intro-description {
   color: #344563;
-  font-family: Poppins;
   font-style: normal;
   font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
+  font-size: 20px;
+  line-height: 28px;
 }
 
 .support {
@@ -75,7 +77,6 @@
   font-size: 16px;
   font-weight: 500;
   margin-bottom: 12px;
-  margin-left: 24px;
   margin-right: 24px;
 }
 
@@ -84,7 +85,6 @@
   width: 170px;
   justify-content: space-between;
   list-style-type: none;
-  margin-left: 24px;
   margin-right: 24px;
   padding: 0;
   flex-direction: row;

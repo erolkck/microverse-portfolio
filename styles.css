@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap");
 
 .body {
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   font-size: 22px;
 }
 
@@ -55,7 +55,7 @@
 }
 
 .introduction {
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   color: #172b4d;
   font-weight: 700;

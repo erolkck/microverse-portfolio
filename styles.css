@@ -1,6 +1,11 @@
 @import url("../css/effects.css");
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap");
 
+.body {
+  font-family: "Poppins";
+  font-size: 22px;
+}
+
 .header {
   display: flex;
   height: 48px;
@@ -21,10 +26,10 @@
   font-size: 18px;
   padding: 10px 12px;
   text-decoration: none;
+  margin-left: 24px;
 }
 
 .rightsection {
-  margin-right: 24px;
   margin-top: 4px;
   margin-bottom: 4px;
   border: none;
